@@ -1,0 +1,4 @@
+# Refer https://github.com/zyrouge/web-status-monitor#configuration for documentation
+entities:
+    - url: "https://google.com"
+      method: "get"
