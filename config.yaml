@@ -2,3 +2,5 @@
 entities:
     - url: "https://google.com"
       method: "get"
+    - url: "https://www.stockalpha.in"
+      method: "get"
